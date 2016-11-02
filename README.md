@@ -1,8 +1,11 @@
 # Twitter External Data Provider
 
 ### INFORMATION
-This module allows you to make a mount point in your Digital Factory in order to search your data from the twitter api using the Twitter4J library.
-Use this module as a tutorial or guide to do your own implementation.
+This module has been developed inspired in part by the code of Quentin MONMERT's (Strava external data provider).  For this reason, we would like to thank him.   
+https://github.com/Jahia/twitter-external-data-provider   
+Jahia/twitter-external-data-provider    
+twitter-external-data-provider - This is an external data provider to connect to a Twitter using the twitter4j api
+github.com
 
 ### MINIMAL REQUIREMENTS
 * Digital Factory 7.1.0.1
